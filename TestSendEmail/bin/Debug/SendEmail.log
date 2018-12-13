@@ -1,0 +1,400 @@
+10/12/2018 16:15:40 - Sending Email
+10/12/2018 16:15:41 - Email sent
+-----
+11/12/2018 11:26:25 - Server: smtp.gmail.com
+11/12/2018 11:26:25 - Username: 
+11/12/2018 11:26:25 - Password: 
+11/12/2018 11:26:25 - Port: 25
+11/12/2018 11:26:25 - SSL Enabled: false
+11/12/2018 11:26:25 - From: test@infodata.uk.com
+11/12/2018 11:26:25 - To: pashworth@infodata.uk.com
+11/12/2018 11:26:25 - CC: 
+11/12/2018 11:26:25 - BCC: 
+11/12/2018 11:26:25 - Subject: C# - test
+11/12/2018 11:26:25 - Body File Name: C:\MAGICTEMP\HTM162FEA12A32B4967B1DCBB0B6190.TMP
+11/12/2018 11:26:25 - Attachments: 
+11/12/2018 11:26:25 - Image Directory: C:\Data\V5.40\oandc\EmailTemplates\Images\
+11/12/2018 11:26:25 - Initialise SMTP Client: Port 25
+11/12/2018 11:26:25 - Initialise SMTP Client: Enable SSL false
+11/12/2018 11:26:25 - Images detected so attach them as resources
+11/12/2018 11:26:25 - Sending Email
+11/12/2018 11:26:26 - The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.7.0 Must issue a STARTTLS command first. k19sm25527967wre.5 - gsmtp
+-----
+11/12/2018 11:26:53 - Server: smtp.gmail.com
+11/12/2018 11:26:54 - Username: 
+11/12/2018 11:26:54 - Password: 
+11/12/2018 11:26:54 - Port: 465
+11/12/2018 11:26:54 - SSL Enabled: false
+11/12/2018 11:26:54 - From: test@infodata.uk.com
+11/12/2018 11:26:54 - To: pashworth@infodata.uk.com
+11/12/2018 11:26:54 - CC: 
+11/12/2018 11:26:54 - BCC: 
+11/12/2018 11:26:54 - Subject: C# - test
+11/12/2018 11:26:54 - Body File Name: C:\MAGICTEMP\HTM162FEA12A32B4967B1DCBB0B6190.TMP
+11/12/2018 11:26:54 - Attachments: 
+11/12/2018 11:26:54 - Image Directory: C:\Data\V5.40\oandc\EmailTemplates\Images\
+11/12/2018 11:26:54 - Initialise SMTP Client: Port 465
+11/12/2018 11:26:54 - Initialise SMTP Client: Enable SSL false
+11/12/2018 11:26:54 - Images detected so attach them as resources
+11/12/2018 11:26:54 - Sending Email
+11/12/2018 11:27:04 - The operation has timed out.
+-----
+11/12/2018 11:27:11 - Server: smtp.gmail.com
+11/12/2018 11:27:11 - Username: 
+11/12/2018 11:27:11 - Password: 
+11/12/2018 11:27:11 - Port: 465
+11/12/2018 11:27:11 - SSL Enabled: true
+11/12/2018 11:27:11 - From: test@infodata.uk.com
+11/12/2018 11:27:11 - To: pashworth@infodata.uk.com
+11/12/2018 11:27:11 - CC: 
+11/12/2018 11:27:11 - BCC: 
+11/12/2018 11:27:11 - Subject: C# - test
+11/12/2018 11:27:11 - Body File Name: C:\MAGICTEMP\HTM162FEA12A32B4967B1DCBB0B6190.TMP
+11/12/2018 11:27:11 - Attachments: 
+11/12/2018 11:27:11 - Image Directory: C:\Data\V5.40\oandc\EmailTemplates\Images\
+11/12/2018 11:27:11 - Initialise SMTP Client: Port 465
+11/12/2018 11:27:11 - Initialise SMTP Client: Enable SSL true
+11/12/2018 11:27:11 - Images detected so attach them as resources
+11/12/2018 11:27:11 - Sending Email
+11/12/2018 11:27:21 - The operation has timed out.
+-----
+11/12/2018 11:27:29 - Server: smtp.gmail.com
+11/12/2018 11:27:29 - Username: 
+11/12/2018 11:27:29 - Password: 
+11/12/2018 11:27:29 - Port: 465
+11/12/2018 11:27:29 - SSL Enabled: true
+11/12/2018 11:27:29 - From: test@infodata.uk.com
+11/12/2018 11:27:29 - To: pashworth@infodata.uk.com
+11/12/2018 11:27:29 - CC: 
+11/12/2018 11:27:29 - BCC: 
+11/12/2018 11:27:29 - Subject: C# - test
+11/12/2018 11:27:29 - Body File Name: C:\MAGICTEMP\HTM162FEA12A32B4967B1DCBB0B6190.TMP
+11/12/2018 11:27:29 - Attachments: 
+11/12/2018 11:27:29 - Image Directory: C:\Data\V5.40\oandc\EmailTemplates\Images\
+11/12/2018 11:27:29 - Initialise SMTP Client: Port 465
+11/12/2018 11:27:29 - Initialise SMTP Client: Enable SSL true
+11/12/2018 11:27:29 - Images detected so attach them as resources
+11/12/2018 11:27:29 - Sending Email
+-----
+11/12/2018 11:30:41 - Server: smtp.gmail.com
+11/12/2018 11:30:41 - Username: peter.ashworth.91@googlemail.com
+11/12/2018 11:30:41 - Password: *****
+11/12/2018 11:30:41 - Port: 465
+11/12/2018 11:30:41 - SSL Enabled: true
+11/12/2018 11:30:41 - From: test@infodata.uk.com
+11/12/2018 11:30:41 - To: pashworth@infodata.uk.com
+11/12/2018 11:30:41 - CC: 
+11/12/2018 11:30:41 - BCC: 
+11/12/2018 11:30:41 - Subject: C# - test
+11/12/2018 11:30:41 - Body File Name: C:\MAGICTEMP\HTM162FEA12A32B4967B1DCBB0B6190.TMP
+11/12/2018 11:30:41 - Attachments: 
+11/12/2018 11:30:41 - Image Directory: C:\Data\V5.40\oandc\EmailTemplates\Images\
+11/12/2018 11:30:41 - Initialise SMTP Client: Port 465
+11/12/2018 11:30:41 - Initialise SMTP Client: Enable SSL true
+11/12/2018 11:30:41 - Images detected so attach them as resources
+11/12/2018 11:30:41 - Sending Email
+11/12/2018 11:31:17 - The operation has timed out.
+-----
+11/12/2018 11:31:24 - Server: smtp.gmail.com
+11/12/2018 11:31:24 - Username: peter.ashworth.91@googlemail.com
+11/12/2018 11:31:24 - Password: *****
+11/12/2018 11:31:24 - Port: 587
+11/12/2018 11:31:24 - SSL Enabled: true
+11/12/2018 11:31:24 - From: test@infodata.uk.com
+11/12/2018 11:31:24 - To: pashworth@infodata.uk.com
+11/12/2018 11:31:24 - CC: 
+11/12/2018 11:31:24 - BCC: 
+11/12/2018 11:31:24 - Subject: C# - test
+11/12/2018 11:31:24 - Body File Name: C:\MAGICTEMP\HTM162FEA12A32B4967B1DCBB0B6190.TMP
+11/12/2018 11:31:24 - Attachments: 
+11/12/2018 11:31:24 - Image Directory: C:\Data\V5.40\oandc\EmailTemplates\Images\
+11/12/2018 11:31:24 - Initialise SMTP Client: Port 587
+11/12/2018 11:31:24 - Initialise SMTP Client: Enable SSL true
+11/12/2018 11:31:24 - Images detected so attach them as resources
+11/12/2018 11:31:24 - Sending Email
+11/12/2018 11:31:34 - The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.5.1 Authentication Required. Learn more at
+-----
+11/12/2018 11:31:40 - Server: smtp.gmail.com
+11/12/2018 11:31:40 - Username: peter.ashworth.91@googlemail.com
+11/12/2018 11:31:40 - Password: *****
+11/12/2018 11:31:40 - Port: 465
+11/12/2018 11:31:40 - SSL Enabled: true
+11/12/2018 11:31:40 - From: test@infodata.uk.com
+11/12/2018 11:31:40 - To: pashworth@infodata.uk.com
+11/12/2018 11:31:40 - CC: 
+11/12/2018 11:31:40 - BCC: 
+11/12/2018 11:31:40 - Subject: C# - test
+11/12/2018 11:31:40 - Body File Name: C:\MAGICTEMP\HTM162FEA12A32B4967B1DCBB0B6190.TMP
+11/12/2018 11:31:40 - Attachments: 
+11/12/2018 11:31:40 - Image Directory: C:\Data\V5.40\oandc\EmailTemplates\Images\
+11/12/2018 11:31:40 - Initialise SMTP Client: Port 465
+11/12/2018 11:31:40 - Initialise SMTP Client: Enable SSL true
+11/12/2018 11:31:40 - Images detected so attach them as resources
+11/12/2018 11:31:40 - Sending Email
+11/12/2018 11:31:54 - The operation has timed out.
+-----
+11/12/2018 11:36:14 - Server: smtp.gmail.com
+11/12/2018 11:36:14 - Username: peter.ashworth.91@googlemail.com
+11/12/2018 11:36:14 - Password: *****
+11/12/2018 11:36:14 - Port: 587
+11/12/2018 11:36:14 - SSL Enabled: false
+11/12/2018 11:36:14 - From: test@infodata.uk.com
+11/12/2018 11:36:14 - To: pashworth@infodata.uk.com
+11/12/2018 11:36:14 - CC: 
+11/12/2018 11:36:14 - BCC: 
+11/12/2018 11:36:14 - Subject: C# - test
+11/12/2018 11:36:14 - Body File Name: C:\MAGICTEMP\HTM162FEA12A32B4967B1DCBB0B6190.TMP
+11/12/2018 11:36:14 - Attachments: 
+11/12/2018 11:36:14 - Image Directory: C:\Data\V5.40\oandc\EmailTemplates\Images\
+11/12/2018 11:36:14 - Initialise SMTP Client: Port 587
+11/12/2018 11:36:14 - Initialise SMTP Client: Enable SSL false
+11/12/2018 11:36:14 - Images detected so attach them as resources
+11/12/2018 11:36:14 - Sending Email
+11/12/2018 11:36:16 - The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.7.0 Must issue a STARTTLS command first. 199sm1829540wmh.21 - gsmtp
+-----
+11/12/2018 11:36:22 - Server: smtp.gmail.com
+11/12/2018 11:36:22 - Username: peter.ashworth.91@googlemail.com
+11/12/2018 11:36:22 - Password: *****
+11/12/2018 11:36:22 - Port: 465
+11/12/2018 11:36:22 - SSL Enabled: false
+11/12/2018 11:36:22 - From: test@infodata.uk.com
+11/12/2018 11:36:22 - To: pashworth@infodata.uk.com
+11/12/2018 11:36:22 - CC: 
+11/12/2018 11:36:22 - BCC: 
+11/12/2018 11:36:22 - Subject: C# - test
+11/12/2018 11:36:22 - Body File Name: C:\MAGICTEMP\HTM162FEA12A32B4967B1DCBB0B6190.TMP
+11/12/2018 11:36:22 - Attachments: 
+11/12/2018 11:36:22 - Image Directory: C:\Data\V5.40\oandc\EmailTemplates\Images\
+11/12/2018 11:36:22 - Initialise SMTP Client: Port 465
+11/12/2018 11:36:22 - Initialise SMTP Client: Enable SSL false
+11/12/2018 11:36:22 - Images detected so attach them as resources
+11/12/2018 11:36:22 - Sending Email
+11/12/2018 11:36:47 - The operation has timed out.
+-----
+11/12/2018 11:43:03 - Server: smtp.gmail.com
+11/12/2018 11:43:03 - Username: peter.ashworth.91@googlemail.com
+11/12/2018 11:43:03 - Password: *****
+11/12/2018 11:43:03 - Port: 465
+11/12/2018 11:43:03 - SSL Enabled: false
+11/12/2018 11:43:03 - From: test@infodata.uk.com
+11/12/2018 11:43:03 - To: pashworth@infodata.uk.com
+11/12/2018 11:43:03 - CC: 
+11/12/2018 11:43:03 - BCC: 
+11/12/2018 11:43:03 - Subject: C# - test
+11/12/2018 11:43:03 - Body File Name: C:\MAGICTEMP\HTM162FEA12A32B4967B1DCBB0B6190.TMP
+11/12/2018 11:43:03 - Attachments: 
+11/12/2018 11:43:03 - Image Directory: C:\Data\V5.40\oandc\EmailTemplates\Images\
+11/12/2018 11:43:03 - Initialise SMTP Client: Port 465
+11/12/2018 11:43:03 - Initialise SMTP Client: Enable SSL false
+11/12/2018 11:43:03 - Images detected so attach them as resources
+11/12/2018 11:43:03 - Sending Email
+11/12/2018 11:43:16 - The operation has timed out.
+-----
+11/12/2018 11:45:17 - Server: smtp.gmail.com
+11/12/2018 11:45:17 - Username: wadjet.91@gmail.com
+11/12/2018 11:45:17 - Password: *****
+11/12/2018 11:45:17 - Port: 465
+11/12/2018 11:45:17 - SSL Enabled: false
+11/12/2018 11:45:17 - From: test@infodata.uk.com
+11/12/2018 11:45:17 - To: pashworth@infodata.uk.com
+11/12/2018 11:45:17 - CC: 
+11/12/2018 11:45:17 - BCC: 
+11/12/2018 11:45:17 - Subject: C# - test
+11/12/2018 11:45:17 - Body File Name: C:\MAGICTEMP\HTM162FEA12A32B4967B1DCBB0B6190.TMP
+11/12/2018 11:45:17 - Attachments: 
+11/12/2018 11:45:17 - Image Directory: C:\Data\V5.40\oandc\EmailTemplates\Images\
+11/12/2018 11:45:17 - Initialise SMTP Client: Port 465
+11/12/2018 11:45:17 - Initialise SMTP Client: Enable SSL false
+11/12/2018 11:45:17 - Images detected so attach them as resources
+11/12/2018 11:45:17 - Sending Email
+11/12/2018 11:45:29 - The operation has timed out.
+-----
+11/12/2018 11:45:50 - Server: smtp.gmail.com
+11/12/2018 11:45:50 - Username: wadjet.91@gmail.com
+11/12/2018 11:45:50 - Password: *****
+11/12/2018 11:45:50 - Port: 465
+11/12/2018 11:45:50 - SSL Enabled: false
+11/12/2018 11:45:50 - From: test@infodata.uk.com
+11/12/2018 11:45:50 - To: pashworth@infodata.uk.com
+11/12/2018 11:45:50 - CC: 
+11/12/2018 11:45:50 - BCC: 
+11/12/2018 11:45:50 - Subject: C# - test
+11/12/2018 11:45:50 - Body File Name: C:\MAGICTEMP\HTM162FEA12A32B4967B1DCBB0B6190.TMP
+11/12/2018 11:45:50 - Attachments: 
+11/12/2018 11:45:50 - Image Directory: C:\Data\V5.40\oandc\EmailTemplates\Images\
+11/12/2018 11:45:50 - Initialise SMTP Client: Port 465
+11/12/2018 11:45:50 - Initialise SMTP Client: Enable SSL false
+11/12/2018 11:45:50 - Images detected so attach them as resources
+11/12/2018 11:45:50 - Sending Email
+11/12/2018 11:46:04 - The operation has timed out.
+-----
+11/12/2018 11:46:34 - Server: smtp.gmail.com
+11/12/2018 11:46:34 - Username: wadjet.91@gmail.com
+11/12/2018 11:46:34 - Password: *****
+11/12/2018 11:46:34 - Port: 587
+11/12/2018 11:46:34 - SSL Enabled: false
+11/12/2018 11:46:34 - From: test@infodata.uk.com
+11/12/2018 11:46:34 - To: pashworth@infodata.uk.com
+11/12/2018 11:46:34 - CC: 
+11/12/2018 11:46:34 - BCC: 
+11/12/2018 11:46:34 - Subject: C# - test
+11/12/2018 11:46:34 - Body File Name: C:\MAGICTEMP\HTM162FEA12A32B4967B1DCBB0B6190.TMP
+11/12/2018 11:46:34 - Attachments: 
+11/12/2018 11:46:34 - Image Directory: C:\Data\V5.40\oandc\EmailTemplates\Images\
+11/12/2018 11:46:34 - Initialise SMTP Client: Port 587
+11/12/2018 11:46:34 - Initialise SMTP Client: Enable SSL false
+11/12/2018 11:46:34 - Images detected so attach them as resources
+11/12/2018 11:46:34 - Sending Email
+11/12/2018 11:47:04 - The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.7.0 Must issue a STARTTLS command first. n8sm19327284wrw.59 - gsmtp
+-----
+11/12/2018 11:47:07 - Server: smtp.gmail.com
+11/12/2018 11:47:07 - Username: wadjet.91@gmail.com
+11/12/2018 11:47:07 - Password: *****
+11/12/2018 11:47:07 - Port: 587
+11/12/2018 11:47:07 - SSL Enabled: true
+11/12/2018 11:47:07 - From: test@infodata.uk.com
+11/12/2018 11:47:07 - To: pashworth@infodata.uk.com
+11/12/2018 11:47:07 - CC: 
+11/12/2018 11:47:07 - BCC: 
+11/12/2018 11:47:07 - Subject: C# - test
+11/12/2018 11:47:07 - Body File Name: C:\MAGICTEMP\HTM162FEA12A32B4967B1DCBB0B6190.TMP
+11/12/2018 11:47:07 - Attachments: 
+11/12/2018 11:47:07 - Image Directory: C:\Data\V5.40\oandc\EmailTemplates\Images\
+11/12/2018 11:47:07 - Initialise SMTP Client: Port 587
+11/12/2018 11:47:07 - Initialise SMTP Client: Enable SSL true
+11/12/2018 11:47:07 - Images detected so attach them as resources
+11/12/2018 11:47:07 - Sending Email
+11/12/2018 11:47:08 - Email sent
+-----
+12/12/2018 16:59:28 - Server: infodatasupport.mail.protection.outlook.com
+12/12/2018 16:59:28 - Username: 
+12/12/2018 16:59:28 - Password: 
+12/12/2018 16:59:28 - Port: 25
+12/12/2018 16:59:28 - SSL Enabled: false
+12/12/2018 16:59:28 - From: test@infodata.uk.com
+12/12/2018 16:59:28 - To: pashworth@infodata.uk.com
+12/12/2018 16:59:28 - CC: 
+12/12/2018 16:59:28 - BCC: 
+12/12/2018 16:59:28 - Subject: C# - test
+12/12/2018 16:59:28 - Body File Name: C:\MAGICTEMP\HTM162FEA12A32B4967B1DCBB0B6190.TMP
+12/12/2018 16:59:28 - Attachments: 
+12/12/2018 16:59:28 - Image Directory: C:\Data\V5.40\oandc\EmailTemplates\Images\
+12/12/2018 16:59:28 - Initialise SMTP Client: Port 25
+12/12/2018 16:59:28 - Initialise SMTP Client: Enable SSL false
+12/12/2018 16:59:28 - Images detected so attach them as resources
+12/12/2018 16:59:28 - Sending Email
+12/12/2018 16:59:30 - Email sent
+-----
+12/12/2018 17:09:43 - Server: infodatasupport.mail.protection.outlook.com
+12/12/2018 17:09:43 - Username: 
+12/12/2018 17:09:43 - Password: 
+12/12/2018 17:09:43 - Port: 25
+12/12/2018 17:09:43 - SSL Enabled: false
+12/12/2018 17:09:43 - From: test@infodata.uk.com
+12/12/2018 17:09:43 - To: pashworth@infodata.uk.com
+12/12/2018 17:09:43 - CC: 
+12/12/2018 17:09:43 - BCC: 
+12/12/2018 17:09:43 - Subject: C# - test
+12/12/2018 17:09:43 - Body File Name: C:\MAGICTEMP\HTM162FEA12A32B4967B1DCBB0B6190.TMP
+12/12/2018 17:09:43 - Attachments: 
+12/12/2018 17:09:43 - Image Directory: C:\Data\V5.40\oandc\EmailTemplates\Images\
+12/12/2018 17:09:43 - Initialise SMTP Client: Port 25
+12/12/2018 17:09:43 - Initialise SMTP Client: Enable SSL false
+12/12/2018 17:09:43 - Images detected so attach them as resources
+12/12/2018 17:09:43 - Sending Email
+12/12/2018 17:09:44 - Email sent
+-----
+12/12/2018 17:31:39 - Server: smtp.gmail.com
+12/12/2018 17:31:39 - Username: wadjet.91@googlemail.com
+12/12/2018 17:31:39 - Password: *****
+12/12/2018 17:31:39 - Port: 25
+12/12/2018 17:31:39 - SSL Enabled: false
+12/12/2018 17:31:39 - From: test@infodata.uk.com
+12/12/2018 17:31:39 - To: pashworth@infodata.uk.com
+12/12/2018 17:31:39 - CC: 
+12/12/2018 17:31:39 - BCC: 
+12/12/2018 17:31:39 - Subject: C# - test
+12/12/2018 17:31:39 - Body File Name: C:\MAGICTEMP\HTM162FEA12A32B4967B1DCBB0B6190.TMP
+12/12/2018 17:31:39 - Attachments: 
+12/12/2018 17:31:39 - Image Directory: C:\Data\V5.40\oandc\EmailTemplates\Images\
+12/12/2018 17:31:39 - Initialise SMTP Client: Port 25
+12/12/2018 17:31:39 - Initialise SMTP Client: Enable SSL false
+12/12/2018 17:31:39 - Images detected so attach them as resources
+12/12/2018 17:31:39 - Sending Email
+12/12/2018 17:31:57 - The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.7.0 Must issue a STARTTLS command first. e142sm6130512wmf.46 - gsmtp
+-----
+12/12/2018 17:32:02 - Server: smtp.gmail.com
+12/12/2018 17:32:02 - Username: wadjet.91@googlemail.com
+12/12/2018 17:32:02 - Password: *****
+12/12/2018 17:32:02 - Port: 25
+12/12/2018 17:32:02 - SSL Enabled: true
+12/12/2018 17:32:02 - From: test@infodata.uk.com
+12/12/2018 17:32:02 - To: pashworth@infodata.uk.com
+12/12/2018 17:32:02 - CC: 
+12/12/2018 17:32:02 - BCC: 
+12/12/2018 17:32:02 - Subject: C# - test
+12/12/2018 17:32:02 - Body File Name: C:\MAGICTEMP\HTM162FEA12A32B4967B1DCBB0B6190.TMP
+12/12/2018 17:32:02 - Attachments: 
+12/12/2018 17:32:02 - Image Directory: C:\Data\V5.40\oandc\EmailTemplates\Images\
+12/12/2018 17:32:02 - Initialise SMTP Client: Port 25
+12/12/2018 17:32:02 - Initialise SMTP Client: Enable SSL true
+12/12/2018 17:32:02 - Images detected so attach them as resources
+12/12/2018 17:32:02 - Sending Email
+12/12/2018 17:32:04 - Email sent
+-----
+12/12/2018 17:33:00 - Server: infodatasupport.mail.protection.outlook.com
+12/12/2018 17:33:00 - Username: 
+12/12/2018 17:33:00 - Password: 
+12/12/2018 17:33:00 - Port: 25
+12/12/2018 17:33:00 - SSL Enabled: false
+12/12/2018 17:33:00 - From: test@infodata.uk.com
+12/12/2018 17:33:00 - To: pashworth@infodata.uk.com
+12/12/2018 17:33:00 - CC: 
+12/12/2018 17:33:00 - BCC: 
+12/12/2018 17:33:00 - Subject: C# - test
+12/12/2018 17:33:00 - Body File Name: C:\MAGICTEMP\HTM162FEA12A32B4967B1DCBB0B6190.TMP
+12/12/2018 17:33:00 - Attachments: 
+12/12/2018 17:33:00 - Image Directory: C:\Data\V5.40\oandc\EmailTemplates\Images\
+12/12/2018 17:33:00 - Initialise SMTP Client: Port 25
+12/12/2018 17:33:00 - Initialise SMTP Client: Enable SSL false
+12/12/2018 17:33:00 - Images detected so attach them as resources
+12/12/2018 17:33:00 - Sending Email
+12/12/2018 17:33:02 - Client does not have permission to submit mail to this server. The server response was: 4.7.0 Connection is not TLS encrypted. Recipient organization requires TLS. [VE1EUR03FT038.eop-EUR03.prod.protection.outlook.com]
+-----
+12/12/2018 17:33:06 - Server: infodatasupport.mail.protection.outlook.com
+12/12/2018 17:33:06 - Username: 
+12/12/2018 17:33:06 - Password: 
+12/12/2018 17:33:06 - Port: 25
+12/12/2018 17:33:06 - SSL Enabled: false
+12/12/2018 17:33:06 - From: test@infodata.uk.com
+12/12/2018 17:33:06 - To: pashworth@infodata.uk.com
+12/12/2018 17:33:06 - CC: 
+12/12/2018 17:33:06 - BCC: 
+12/12/2018 17:33:06 - Subject: C# - test
+12/12/2018 17:33:06 - Body File Name: C:\MAGICTEMP\HTM162FEA12A32B4967B1DCBB0B6190.TMP
+12/12/2018 17:33:06 - Attachments: 
+12/12/2018 17:33:06 - Image Directory: C:\Data\V5.40\oandc\EmailTemplates\Images\
+12/12/2018 17:33:06 - Initialise SMTP Client: Port 25
+12/12/2018 17:33:06 - Initialise SMTP Client: Enable SSL false
+12/12/2018 17:33:06 - Images detected so attach them as resources
+12/12/2018 17:33:06 - Sending Email
+12/12/2018 17:33:09 - Client does not have permission to submit mail to this server. The server response was: 4.7.0 Connection is not TLS encrypted. Recipient organization requires TLS. [VE1EUR03FT060.eop-EUR03.prod.protection.outlook.com]
+-----
+12/12/2018 17:33:13 - Server: infodatasupport.mail.protection.outlook.com
+12/12/2018 17:33:13 - Username: 
+12/12/2018 17:33:13 - Password: 
+12/12/2018 17:33:13 - Port: 25
+12/12/2018 17:33:13 - SSL Enabled: true
+12/12/2018 17:33:13 - From: test@infodata.uk.com
+12/12/2018 17:33:13 - To: pashworth@infodata.uk.com
+12/12/2018 17:33:13 - CC: 
+12/12/2018 17:33:13 - BCC: 
+12/12/2018 17:33:13 - Subject: C# - test
+12/12/2018 17:33:13 - Body File Name: C:\MAGICTEMP\HTM162FEA12A32B4967B1DCBB0B6190.TMP
+12/12/2018 17:33:13 - Attachments: 
+12/12/2018 17:33:13 - Image Directory: C:\Data\V5.40\oandc\EmailTemplates\Images\
+12/12/2018 17:33:13 - Initialise SMTP Client: Port 25
+12/12/2018 17:33:13 - Initialise SMTP Client: Enable SSL true
+12/12/2018 17:33:13 - Images detected so attach them as resources
+12/12/2018 17:33:13 - Sending Email
+12/12/2018 17:33:14 - Email sent

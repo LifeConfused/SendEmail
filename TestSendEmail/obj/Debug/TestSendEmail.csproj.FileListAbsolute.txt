@@ -1,0 +1,11 @@
+C:\Users\pashworth\Documents\Visual Studio 2015\Projects\SendEmail\TestSendEmail\bin\Debug\TestSendEmail.exe.config
+C:\Users\pashworth\Documents\Visual Studio 2015\Projects\SendEmail\TestSendEmail\bin\Debug\TestSendEmail.exe
+C:\Users\pashworth\Documents\Visual Studio 2015\Projects\SendEmail\TestSendEmail\bin\Debug\TestSendEmail.pdb
+C:\Users\pashworth\Documents\Visual Studio 2015\Projects\SendEmail\TestSendEmail\bin\Debug\SendEmail.dll
+C:\Users\pashworth\Documents\Visual Studio 2015\Projects\SendEmail\TestSendEmail\obj\Debug\TestSendEmail.Form1.resources
+C:\Users\pashworth\Documents\Visual Studio 2015\Projects\SendEmail\TestSendEmail\obj\Debug\TestSendEmail.Properties.Resources.resources
+C:\Users\pashworth\Documents\Visual Studio 2015\Projects\SendEmail\TestSendEmail\obj\Debug\TestSendEmail.csproj.GenerateResource.Cache
+C:\Users\pashworth\Documents\Visual Studio 2015\Projects\SendEmail\TestSendEmail\obj\Debug\TestSendEmail.exe
+C:\Users\pashworth\Documents\Visual Studio 2015\Projects\SendEmail\TestSendEmail\obj\Debug\TestSendEmail.pdb
+C:\Users\pashworth\Documents\Visual Studio 2015\Projects\SendEmail\TestSendEmail\bin\Debug\SendEmail.pdb
+C:\Users\pashworth\Documents\Visual Studio 2015\Projects\SendEmail\TestSendEmail\obj\Debug\TestSendEmail.csprojResolveAssemblyReference.cache

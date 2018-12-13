@@ -1,0 +1,7 @@
+c:\users\pashworth\documents\visual studio 2015\Projects\SendEmail\SendEmail\bin\Release\SendEmail.dll
+c:\users\pashworth\documents\visual studio 2015\Projects\SendEmail\SendEmail\bin\Release\SendEmail.pdb
+c:\users\pashworth\documents\visual studio 2015\Projects\SendEmail\SendEmail\obj\Release\SendEmail.dll
+c:\users\pashworth\documents\visual studio 2015\Projects\SendEmail\SendEmail\obj\Release\SendEmail.pdb
+c:\users\pashworth\documents\visual studio 2015\Projects\SendEmail\SendEmail\obj\Release\SendEmail.csprojResolveAssemblyReference.cache
+C:\Magic940\SendEmail.dll
+C:\Magic940\SendEmail.pdb
