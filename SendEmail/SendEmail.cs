@@ -138,7 +138,7 @@ namespace SendEmail
                 string body = "";
                 if (File.Exists(bodyFileName))//if html body filename exists then process it
                 {
-                    body = File.ReadAllText(bodyFileName);//read file contents into string
+                    body = File.ReadAllText(bodyFileName, Encoding.Default);//read file contents into string, encoding default will hopefully catch special characters
 
                     // Add the alternate body to the message.
                     AlternateView alternate = AlternateView.CreateAlternateViewFromString(body, null, "text/html");
@@ -152,13 +152,21 @@ namespace SendEmail
                     {
                         end = body.IndexOf("\"", start + 5);//getquote mark after cid:
                         string filename = body.Substring(start + 9, end - (start + 9));
+                        filename = filename.Replace("&amp;", "&");//handle ckeditor messing with image filenames when editing templates. we could maybe do urldecode here instead if more symbols become an issue
 
-                        //must define mime type or windows mail shows all images as attachments as well as inline
-                        //we pass in a image directory as all our email images are in one place, you could put the full filepath in the src tag and replace it with a guid or something if you wanted to
-                        Attachment att = new Attachment(imageDirectory + filename, "image/jpg");//jpg might be enough to enter image mode, might need to be more specific with mime type
-                        att.ContentDisposition.Inline = true;//flag it as inline so it doesnt appear as attachment
-                        att.ContentId = filename;//this must match the content of the source tag without "cid:" so if "cid:filename.jpg" then this needs to be "filename.jpg"
-                        objeto_mail.Attachments.Add(att);//add attachment to mail object
+                        if (File.Exists(imageDirectory + filename))//only process image if it exists, prevents error 6
+                        {
+                            //must define mime type or windows mail shows all images as attachments as well as inline
+                            //we pass in a image directory as all our email images are in one place, you could put the full filepath in the src tag and replace it with a guid or something if you wanted to
+                            Attachment att = new Attachment(imageDirectory + filename, "image/jpg");//jpg might be enough to enter image mode, might need to be more specific with mime type
+                            att.ContentDisposition.Inline = true;//flag it as inline so it doesnt appear as attachment
+                            att.ContentId = filename;//this must match the content of the source tag without "cid:" so if "cid:filename.jpg" then this needs to be "filename.jpg"
+                            objeto_mail.Attachments.Add(att);//add attachment to mail object
+                        }
+                        else
+                        {
+                            WriteLog("Image does not exist so leave image blank: " + imageDirectory + filename);
+                        }
 
                         start = body.IndexOf("src=\"cid:", end);//look for next cid:
                     }
@@ -198,7 +206,7 @@ namespace SendEmail
                     catch (Exception e)
                     {
                         status = 2;//failed to send
-                        WriteLog("Error sending email(2): " + e != null ? e.Message : "");
+                        WriteLog("Error sending email(2): " + (e != null ? e.Message : ""));
                     }
                 }
                 else
@@ -228,7 +236,7 @@ namespace SendEmail
             }
             catch (Exception e)
             {
-                WriteLog("Error sending email(6): " + e != null ? e.Message : "");
+                WriteLog("Error sending email(6): " + (e != null ? e.Message : ""));
                 return 6;
             }
         }
@@ -237,7 +245,7 @@ namespace SendEmail
         {
             if (EnableLogging)
             {
-                if (!File.Exists(Directory.GetCurrentDirectory() + "\\SendEmail.log"))
+                if (!File.Exists(Directory.GetCurrentDirectory() + "\\SendEmail.log"))//if log file doesnt exist then create it
                 {
                     using (StreamWriter sw = File.CreateText(Directory.GetCurrentDirectory() + "\\SendEmail.log"))
                     {
@@ -245,7 +253,7 @@ namespace SendEmail
                         sw.WriteLine((entry != "-----" ? DateTime.Now.ToString("dd/MM/yyyy HH:mm:ss") + " - " : "") + entry);
                     }
                 }
-                else
+                else//log file exists so append to it
                 {
                     using (StreamWriter sw = File.AppendText(Directory.GetCurrentDirectory() + "\\SendEmail.log"))
                     {
